@@ -1,0 +1,11 @@
+{
+	"font_size": 17,
+	"font_face": "Fira Code",	
+	"font_options": ["no_italic"],
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"file_exclude_patterns": ["*.cache", "*.aux", "*.glob", "*.vo", "*.vos", "*.vok", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+	"drag_text": false,
+}
