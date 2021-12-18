@@ -7,5 +7,10 @@
 		"Vintage",
 	],
 	"file_exclude_patterns": ["*.cache", "*.aux", "*.glob", "*.vo", "*.vos", "*.vok", "*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", ".directory", "desktop.ini", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
-	"drag_text": false,
+	"hot_exit": false,
+	"remember_open_files": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": "all",
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Mariana.sublime-color-scheme",
 }
